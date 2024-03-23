@@ -1,0 +1,1 @@
+This file is actually meant to practice pushing our work to github using our terminal. So a little clone to the the W3 school was use to achieve our main intention.
